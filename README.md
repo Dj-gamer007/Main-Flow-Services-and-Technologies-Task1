@@ -4,7 +4,7 @@ Welcome to my Python internship repository! This project contains the work I hav
 
 # Internship Details
 Company: Main Flow Services and Technologies
-/n Internship Duration: July 15, 2024 - September 15, 2024
+Internship Duration: July 15, 2024 - September 15, 2024
 Role: Python Developer Intern
 Learning Objectives:
 The primary goal of this internship is to gain hands-on experience and enhance my knowledge of Python programming. 
@@ -20,3 +20,21 @@ Foundational Concepts:
 # Task-1:
 Writing basic scripts for arithmetic operations, string manipulation, and conditional statements
 Common Data Structures:Lists,Dictionaries,Tuples.
+python-internship/
+│
+├── Task1a/
+│   ├── scripts/
+│   │   ├── arithmetic_operations.py
+│   │   ├── string_manipulation.py
+│   │   └── conditional_statements.py
+│   └── README.md
+│
+├── Task1b/
+│   ├── scripts/
+│   │   ├── loops.py
+│   │   ├── functions.py
+│   │   └── data_structures.py
+│   └── README.md
+│
+└── README.md
+
