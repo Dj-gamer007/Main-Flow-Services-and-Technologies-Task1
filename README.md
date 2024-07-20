@@ -4,7 +4,7 @@ Welcome to my Python internship repository! This project contains the work I hav
 
 # Internship Details
 Company: Main Flow Services and Technologies
-Internship Duration: July 15, 2024 - September 15, 2024
+/n Internship Duration: July 15, 2024 - September 15, 2024
 Role: Python Developer Intern
 Learning Objectives:
 The primary goal of this internship is to gain hands-on experience and enhance my knowledge of Python programming. 
