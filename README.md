@@ -1,4 +1,4 @@
-# Main Flow Services And Technology-Internship-Dhanush J-Jupyter-Lab-TASK-01
+# Main Flow Services And Technology-Internship-Jupyter-Lab-TASK-01
 
 ---
 
